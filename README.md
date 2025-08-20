@@ -14,7 +14,7 @@ Bangladesh faces a **critical heart health crisis**:
 
 ---
 
-## 💡 Our Solution
+## 💡 Our Solution and 
 
 **An AI-based application** that:
 
